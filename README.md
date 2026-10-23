@@ -26,7 +26,53 @@ To design an intuitive and user-friendly mobile flower-shopping experience with 
 
 ## 🖼️ Screenshots
 
-Screenshots of the Bloomora mobile app design will be added here.
+### 01. Splash Screen
+![Splash Screen](01_Splash.png)
+
+### 02. Login Screen
+![Login Screen](02_Login.png)
+
+### 03. Home Screen
+![Home Screen](03_Home.png)
+
+### 04. Categories
+![Categories](04_Categories.png)
+
+### 05. Product Listing
+![Product Listing](05_Product_Listing.png)
+
+### 06. Product Details
+![Product Details](06_Product_Details.png)
+
+### 07. Search
+![Search](07_Search.png)
+
+### 08. Shopping Cart
+![Shopping Cart](08_Shopping_Cart.png)
+
+### 09. Add New Address
+![Add New Address](09_Add_New_Address.png)
+
+### 10. Delivery Address
+![Delivery Address](09_Delivery_Address.png)
+
+### 11. Payment
+![Payment](10_Payment.png)
+
+### 12. Order Confirmation
+![Order Confirmation](11_Order_Confirmation.png)
+
+### 13. Order History
+![Order History](12_Order_History.png)
+
+### 14. Wishlist
+![Wishlist](13_Wishlist.png)
+
+### 15. Settings
+![Settings](14_Settings.png)
+
+### 16. User Profile
+![User Profile](14_User_Profile.png)
 
 ## 🔗 Figma Prototype
 
