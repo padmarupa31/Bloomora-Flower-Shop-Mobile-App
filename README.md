@@ -30,7 +30,9 @@ Screenshots of the Bloomora mobile app design will be added here.
 
 ## 🔗 Figma Prototype
 
-Figma prototype link will be added here.
+Explore the interactive Bloomora mobile app prototype created using Figma.
+
+**[View Bloomora Figma Prototype](https://www.figma.com/proto/s7JtxmFFRGXmcDKbyx9kol/2303121026_Padmaroopa_UIUX_Assignment1?node-id=15-222&p=f&t=W3J5BYDr8grRMG9k-1&scaling=scale-down&content-scaling=fixed&page-id=3%3A7)
 
 ## 👩‍💻 Author
 
